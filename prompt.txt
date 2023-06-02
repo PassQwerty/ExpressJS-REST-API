@@ -1,0 +1,11 @@
+Установка:
+npm install express
+
+При желании установить:
+npm install -g nodemon
+
+Запуск:
+node server.js
+
+Запуск с nodemon:
+npx nodemon server.js
